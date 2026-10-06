@@ -1,4 +1,4 @@
-# Teradyne Equity Research
+# Sell-Side Equity Research: Teradyne (NASDAQ: TER)
 
 A sell-side style research report on Teradyne (NASDAQ: TER), written for the Asset Management Practicum (MBA AF 632) at UMass Boston in Spring 2025 using Bloomberg Terminal data. The report rates the stock a Buy with an $89.79 target price, about 21% above the $74.21 share price on May 5, 2025. In less than six months the stock had more than doubled.
 
